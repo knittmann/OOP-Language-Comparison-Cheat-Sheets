@@ -40,5 +40,16 @@
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <th scope="row">
+      String Quote Options
+    </th>
+    <td></td>
+    <td>
+      Single Quotes: let string = 'A string';<br>
+      Double Quotes: let string = "A string";
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
-  
