@@ -1,5 +1,44 @@
-| Topic                       | Java        | Javascript                  | Python      | C++       |
-| ------                      |------       |------------                 |--------     |-----      |
-| Variable Type Declaration   | Required    | Not Required                |             |           |
-| Declaring Variables         |             | var (not used much anymore) |             |           |
-
+<table>
+  <tr>
+    <td></td>
+    <th scope="col">
+      Java
+    </th>
+    <th scope="col">
+      JavaScript
+    </th>
+    <th>
+      Python
+    </th>
+    <th>
+      C++
+    </th>
+  </tr>
+  <tr>
+    <th scope="row">
+      Variable Type Declaration
+    </th>
+    <td>
+      Required
+    </td>
+    <td>
+      Not Required
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">
+      Declaring Variables
+    </th>
+    <td></td>
+    <td>
+      var (not used much anymore)<br>
+      let <br>
+      const
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+  
