@@ -46,8 +46,8 @@
     </th>
     <td></td>
     <td>
-      Single Quotes: let string = 'A string';<br>
-      Double Quotes: let string = "A string";
+      Single Quotes: <code>let string = 'A string';</code><br>
+      Double Quotes: <code>let string = "A string";</code>
     </td>
     <td></td>
     <td></td>
