@@ -52,4 +52,17 @@
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <th scope="row">
+      Boolean Options
+    </th>
+    <td>
+      TRUE/FALSE
+    </td>
+    <td>
+      true/false
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
