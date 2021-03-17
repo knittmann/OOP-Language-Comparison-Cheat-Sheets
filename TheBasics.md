@@ -83,11 +83,9 @@
       Comments: Multi-Line
     </th>
     <td>
-      <code><pre>
-      /*
+      <code><pre>/*
        * Multiline Comment.
-       */
-       </pre></code>
+       */ </pre></code>
     </td>
     <td></td>
     <td></td>
