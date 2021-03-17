@@ -65,4 +65,31 @@
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <th scope="row">
+      Comments: Single Line
+    </th>
+    <td>
+      <code>// comment</code>
+    </td>
+    <td>
+      <code>// comment</code>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">
+      Comments: Multi-Line
+    </th>
+    <td>
+      <code><pre>
+      /*
+       * Multiline Comment.
+       */
+       </pre></code>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
